@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NamsyJay
 - 👀 I’m interested in Cloud Computing and DevOps
 - 🌱 I’m currently learning Java, AWS platform and Networking.
-- 💞️ I’m looking to collaborate on Business Analysis and Strategy.
+- 💞️ I’m looking to collaborate on DevOps and Cloud Computing.
 - 📫 How to reach me at onamusibabajide@gmail.com or @NamsyJay on Twitter.
 
 <!---
