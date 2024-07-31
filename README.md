@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NamsyJay
-- 👀 I’m interested in Cloud Computing and DevOps
-- 🌱 I’m currently learning Java, AWS platform and Networking.
-- 💞️ I’m looking to collaborate on DevOps and Cloud Computing.
-- 📫 How to reach me at onamusibabajide@gmail.com or @NamsyJay on Twitter.
+- 👀 DevOps Engineer passionate about Cloud Infrastructure and Cost Optimisation.
+- 🌱 Azure, AWS & On-Premises; Python, Java & Golang.
+- 📫 Reach me @ onamusibabajide@gmail.com or @NamsyJay on Twitter.
 
 <!---
 NamsyJay/NamsyJay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
