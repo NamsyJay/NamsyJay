@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NamsyJay
 - 👀 DevOps Engineer passionate about Cloud Infrastructure and Cost Optimisation.
-- 🌱 Azure, AWS & On-Premises; Python, Java & Golang.
+- 🌱 Azure, AWS & On-Premises; Bash, Python & Java.
 - 📫 Reach me @ onamusibabajide@gmail.com or @NamsyJay on Twitter.
 
 <!---
